@@ -1,0 +1,8 @@
+outlook
+https://d835-37-19-205-146.ngrok-free.app
+ ./ngrok http  http://localhost:3000 
+
+intuit
+ ./ngrok http  http://localhost:3001
+
+
